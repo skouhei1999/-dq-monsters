@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 112,
+    "next_index": 120,
     "total": 128,
     "batch_size": 8,
     "cycle": 1,
-    "last_run": "2026-09-07T05:32:13+09:00",
-    "last_batch_start": 104,
+    "last_run": "2026-09-07T05:43:25+09:00",
+    "last_batch_start": 112,
     "last_batch_names": [
-      "バトルレックス",
-      "アックスドラゴン",
-      "りゅうおう",
-      "りゅうおう（40周年）",
-      "竜王（40周年）",
-      "ハーゴン",
-      "シドー（緑）",
-      "カンダタ"
+      "デスストーカー",
+      "エリミネーター",
+      "バラモス",
+      "バラモスブロス",
+      "ゾーマ",
+      "ゾーマ（闇の衣）",
+      "ラーミア",
+      "エスターク"
     ]
   },
   "items": {
@@ -717,49 +717,49 @@
     "https://amzn.to/4d1gDpt": {
       "name": "デスストーカー",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:26+09:00",
+      "last_attempt_at": "2026-09-07T05:42:59+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42NG3lP": {
       "name": "エリミネーター",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:29+09:00",
+      "last_attempt_at": "2026-09-07T05:43:03+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4esYB1Y": {
       "name": "バラモス",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:33+09:00",
+      "last_attempt_at": "2026-09-07T05:43:06+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4wbxVsT": {
       "name": "バラモスブロス",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:36+09:00",
+      "last_attempt_at": "2026-09-07T05:43:09+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3OIC9Yf": {
       "name": "ゾーマ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:39+09:00",
+      "last_attempt_at": "2026-09-07T05:43:12+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4cQZjVr": {
       "name": "ゾーマ（闇の衣）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:42+09:00",
+      "last_attempt_at": "2026-09-07T05:43:16+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3PierlI": {
       "name": "ラーミア",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:45+09:00",
+      "last_attempt_at": "2026-09-07T05:43:19+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tYcgD8": {
       "name": "エスターク",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T02:13:49+09:00",
+      "last_attempt_at": "2026-09-07T05:43:22+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42Sp15W": {
