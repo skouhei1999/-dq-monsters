@@ -1,0 +1,645 @@
+{
+  "https://amzn.to/4tSQArz": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライム"
+  },
+  "https://amzn.to/4sK6kw8": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライム（ロトブルー）"
+  },
+  "https://amzn.to/4tfHrcC": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムベス"
+  },
+  "https://amzn.to/4vA62uk": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルスライム"
+  },
+  "https://amzn.to/426RkgF": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムダーク"
+  },
+  "https://amzn.to/4cd71ZP": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スラミチ"
+  },
+  "https://amzn.to/4mCPoWU": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スラミチ（アストロン）"
+  },
+  "https://amzn.to/4whjvXO": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ライムスライム"
+  },
+  "https://amzn.to/3R1ANJh": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ピーチスライム"
+  },
+  "https://amzn.to/3QdH5EI": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "はぐれメタル"
+  },
+  "https://amzn.to/4taFX38": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "はぐれメタルL"
+  },
+  "https://amzn.to/4suOFYZ": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "バブルスライム"
+  },
+  "https://amzn.to/4sDr9sS": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キングスライム"
+  },
+  "https://amzn.to/4vsK1gK": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キングスライム（ロトブルー）"
+  },
+  "https://amzn.to/4cprxoR": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルキング"
+  },
+  "https://amzn.to/4cbcReb": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ゴールデンスライム"
+  },
+  "https://amzn.to/4tce3Ed": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムマデュラ"
+  },
+  "https://amzn.to/4tek0QZ": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムエンペラー"
+  },
+  "https://amzn.to/4tmtGsD": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムナイト"
+  },
+  "https://amzn.to/4en5Gkk": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルライダー"
+  },
+  "https://amzn.to/4tmv6mX": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ハートナイト"
+  },
+  "https://amzn.to/4tNbLej": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ホイミスライム"
+  },
+  "https://amzn.to/3O3jO7V": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ベホマスライム"
+  },
+  "https://amzn.to/4vNdMt9": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ドラゴスライム"
+  },
+  "https://amzn.to/3Q1LbQn": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ドラゴスライム（DQ7記念バージョン）"
+  },
+  "https://amzn.to/4cJTSaI": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ドラゴメタル"
+  },
+  "https://amzn.to/4sssJO5": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "エンゼルスライム"
+  },
+  "https://amzn.to/41vthIf": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルエンゼル"
+  },
+  "https://amzn.to/4sDp00q": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムタワー"
+  },
+  "https://amzn.to/4sAzHAL": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルブラザーズ"
+  },
+  "https://amzn.to/481Facw": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ゴールデントーテム"
+  },
+  "https://amzn.to/4crUrVe": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ももいろ三姉妹"
+  },
+  "https://amzn.to/4tNKtET": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "チョコタワー"
+  },
+  "https://amzn.to/4tR9FKI": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムつむり"
+  },
+  "https://amzn.to/4sx8a3e": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルつむり"
+  },
+  "https://amzn.to/4elTyjx": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムコロネ"
+  },
+  "https://amzn.to/4tSTA7j": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライム（35周年）"
+  },
+  "https://amzn.to/4vuqBs1": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "はぐれメタル（35周年）"
+  },
+  "https://amzn.to/4szPkIC": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ホイミスライム（35周年）"
+  },
+  "https://amzn.to/4cFOw09": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キングスライム（35周年）"
+  },
+  "https://amzn.to/4mADzAy": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライムナイト（35周年）"
+  },
+  "https://amzn.to/487XEbb": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スライム（40周年）"
+  },
+  "https://amzn.to/4sJYCTg": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "はぐれメタル（40周年）"
+  },
+  "https://amzn.to/487XMYd": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キングスライム（40周年）"
+  },
+  "https://amzn.to/4endVNv": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "リカント"
+  },
+  "https://amzn.to/4d2RTgD": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "リカントマムル"
+  },
+  "https://amzn.to/4tdw8k8": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "オーク"
+  },
+  "https://amzn.to/4uNU0MP": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "オークキング"
+  },
+  "https://amzn.to/42O6vf6": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "アルミラージ"
+  },
+  "https://amzn.to/4dp4BYs": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "いたずらもぐら"
+  },
+  "https://amzn.to/4da3PgF": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キングレオ"
+  },
+  "https://amzn.to/42Pl41W": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ドラキー"
+  },
+  "https://amzn.to/4tRjDvN": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルドラキー"
+  },
+  "https://amzn.to/3RlDWDd": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ドラキーマ"
+  },
+  "https://amzn.to/4uqLS4i": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ツンドラキー"
+  },
+  "https://amzn.to/4nawtmw": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ベビーサタン"
+  },
+  "https://amzn.to/3OY5cXS": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ミニデーモン"
+  },
+  "https://amzn.to/4esBbd8": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "おおめだま"
+  },
+  "https://amzn.to/3QQIYaL": {
+    "status": "price",
+    "price": 2614,
+    "checked_at": "2026/09/06 12:56",
+    "name": "スペクテット"
+  },
+  "https://amzn.to/4tbuGPz": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "バルザック"
+  },
+  "https://amzn.to/4cScwgR": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "あくまのきし"
+  },
+  "https://amzn.to/3QKGDOF": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "しろバラのきし"
+  },
+  "https://amzn.to/4uyLPnn": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "あくましんかん"
+  },
+  "https://amzn.to/4urI4jt": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "じごくのつかい"
+  },
+  "https://amzn.to/4waRyRK": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "アークデーモン"
+  },
+  "https://amzn.to/4cPai1H": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "デザートデーモン"
+  },
+  "https://amzn.to/42SevM0": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "シルバーデビル"
+  },
+  "https://amzn.to/4tKzv3g": {
+    "status": "price",
+    "price": 4400,
+    "checked_at": "2026/09/06 12:56",
+    "name": "ギガンテス"
+  },
+  "https://amzn.to/4tfKrF4": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キメラ"
+  },
+  "https://amzn.to/48CO9kO": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルキメラ"
+  },
+  "https://amzn.to/3R64Wqh": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スターキメラ"
+  },
+  "https://amzn.to/3PlPCFt": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "おおがらす"
+  },
+  "https://amzn.to/3PlRWfF": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "おおさそり"
+  },
+  "https://amzn.to/4tdCdgs": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "てつのさそり"
+  },
+  "https://amzn.to/4dnRhU5": {
+    "status": "price",
+    "price": 7179,
+    "checked_at": "2026/09/06 12:56",
+    "name": "ヘルバオム"
+  },
+  "https://amzn.to/4uo4oKH": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ローズバトラー"
+  },
+  "https://amzn.to/4dp1obh": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ばくだんいわ"
+  },
+  "https://amzn.to/4wbyanO": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スマイルロック"
+  },
+  "https://amzn.to/4psCoEH": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "のろいの岩"
+  },
+  "https://amzn.to/44GSJfl": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "オーロラウンダー"
+  },
+  "https://amzn.to/4n6MxFH": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "さまようよろい"
+  },
+  "https://amzn.to/4taVmzL": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キラーアーマー"
+  },
+  "https://amzn.to/42bzr0v": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ピサロナイト"
+  },
+  "https://amzn.to/4w66zo9": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ゴーレム"
+  },
+  "https://amzn.to/4d6RYQD": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ゴールドマン"
+  },
+  "https://amzn.to/4cVPNyY": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ストーンマン"
+  },
+  "https://amzn.to/4d3NoST": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キラーマシン"
+  },
+  "https://amzn.to/4utR5sn": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "タイプG"
+  },
+  "https://amzn.to/4uqGUoh": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キラーマシン2"
+  },
+  "https://amzn.to/3R3WUhz": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キラーマジンガ"
+  },
+  "https://amzn.to/4uyjWMi": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ゴースト"
+  },
+  "https://amzn.to/4wb1RoU": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メトロゴースト"
+  },
+  "https://amzn.to/4d7nDkS": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "メタルハンド"
+  },
+  "https://amzn.to/4tPUHop": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ドラゴン"
+  },
+  "https://amzn.to/4sP0f1g": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ドラゴン（40周年）"
+  },
+  "https://amzn.to/4cQktmH": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ダースドラゴン"
+  },
+  "https://amzn.to/4tUyztl": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キースドラゴン"
+  },
+  "https://amzn.to/4tSZx4A": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スカイドラゴン"
+  },
+  "https://amzn.to/42Polyg": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "スノードラゴン"
+  },
+  "https://amzn.to/4nbkeGm": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "しんりゅう"
+  },
+  "https://amzn.to/4tb1W9r": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "やまたのおろち"
+  },
+  "https://amzn.to/4wacMiB": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "キングヒドラ"
+  },
+  "https://amzn.to/3OM9TE5": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "グレイトドラゴン"
+  },
+  "https://amzn.to/3P0Bnpy": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ブラックドラゴン"
+  },
+  "https://amzn.to/4tKC19I": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "バトルレックス"
+  },
+  "https://amzn.to/42f4EzU": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "アックスドラゴン"
+  },
+  "https://amzn.to/4eZgPYX": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "りゅうおう"
+  },
+  "https://amzn.to/48FFn5m": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "りゅうおう（40周年）"
+  },
+  "https://amzn.to/488HSgu": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "竜王（40周年）"
+  },
+  "https://amzn.to/4d18Isf": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ハーゴン"
+  },
+  "https://amzn.to/4wbessm": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "シドー（緑）"
+  },
+  "https://amzn.to/4n89CYR": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "カンダタ"
+  },
+  "https://amzn.to/4d1gDpt": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "デスストーカー"
+  },
+  "https://amzn.to/42NG3lP": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "エリミネーター"
+  },
+  "https://amzn.to/4esYB1Y": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "バラモス"
+  },
+  "https://amzn.to/4wbxVsT": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "バラモスブロス"
+  },
+  "https://amzn.to/3OIC9Yf": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ゾーマ"
+  },
+  "https://amzn.to/4cQZjVr": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ゾーマ（闇の衣）"
+  },
+  "https://amzn.to/3PierlI": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ラーミア"
+  },
+  "https://amzn.to/4tYcgD8": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "エスターク"
+  },
+  "https://amzn.to/42Sp15W": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "エスターク（ブルー）"
+  },
+  "https://amzn.to/4f3oXaR": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "デスピサロ"
+  },
+  "https://amzn.to/4dokSNc": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "エビルプリースト"
+  },
+  "https://amzn.to/491kIZV": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "究極エビルプリースト"
+  },
+  "https://amzn.to/4daWfCF": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "ミルドラース"
+  },
+  "https://amzn.to/4wbeFMa": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "オルゴ・デミーラ"
+  },
+  "https://amzn.to/4n6MbPq": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "わたぼう"
+  },
+  "https://amzn.to/4d75ELt": {
+    "status": "failed",
+    "checked_at": "2026/09/06 12:56",
+    "name": "わるぼう"
+  }
+}
