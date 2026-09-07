@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 88,
+    "next_index": 96,
     "total": 128,
     "batch_size": 8,
     "cycle": 7,
-    "last_run": "2026-09-08T05:33:31+09:00",
-    "last_batch_start": 80,
+    "last_run": "2026-09-08T05:46:04+09:00",
+    "last_batch_start": 88,
     "last_batch_names": [
-      "さまようよろい",
-      "キラーアーマー",
-      "ピサロナイト",
-      "ゴーレム",
-      "ゴールドマン",
-      "ストーンマン",
-      "キラーマシン",
-      "タイプG"
+      "キラーマシン2",
+      "キラーマジンガ",
+      "ゴースト",
+      "メトロゴースト",
+      "メタルハンド",
+      "ドラゴン",
+      "ドラゴン（40周年）",
+      "ダースドラゴン"
     ]
   },
   "items": {
@@ -594,49 +594,49 @@
     "https://amzn.to/4uqGUoh": {
       "name": "キラーマシン2",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:50:54+09:00",
+      "last_attempt_at": "2026-09-08T05:45:38+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3R3WUhz": {
       "name": "キラーマジンガ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:50:57+09:00",
+      "last_attempt_at": "2026-09-08T05:45:42+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4uyjWMi": {
       "name": "ゴースト",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:51:00+09:00",
+      "last_attempt_at": "2026-09-08T05:45:45+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4wb1RoU": {
       "name": "メトロゴースト",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:51:04+09:00",
+      "last_attempt_at": "2026-09-08T05:45:48+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4d7nDkS": {
       "name": "メタルハンド",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:51:09+09:00",
+      "last_attempt_at": "2026-09-08T05:45:51+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tPUHop": {
       "name": "ドラゴン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:51:14+09:00",
+      "last_attempt_at": "2026-09-08T05:45:54+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4sP0f1g": {
       "name": "ドラゴン（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:51:19+09:00",
+      "last_attempt_at": "2026-09-08T05:45:57+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4cQktmH": {
       "name": "ダースドラゴン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T01:51:23+09:00",
+      "last_attempt_at": "2026-09-08T05:46:01+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tUyztl": {
