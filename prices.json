@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 40,
+    "next_index": 48,
     "total": 128,
     "batch_size": 8,
     "cycle": 8,
-    "last_run": "2026-09-08T07:52:54+09:00",
-    "last_batch_start": 32,
+    "last_run": "2026-09-08T08:05:07+09:00",
+    "last_batch_start": 40,
     "last_batch_names": [
-      "チョコタワー",
-      "スライムつむり",
-      "メタルつむり",
-      "スライムコロネ",
-      "スライム（35周年）",
-      "はぐれメタル（35周年）",
-      "ホイミスライム（35周年）",
-      "キングスライム（35周年）"
+      "スライムナイト（35周年）",
+      "スライム（40周年）",
+      "はぐれメタル（40周年）",
+      "キングスライム（40周年）",
+      "リカント",
+      "リカントマムル",
+      "オーク",
+      "オークキング"
     ]
   },
   "items": {
@@ -279,49 +279,49 @@
     "https://amzn.to/4mADzAy": {
       "name": "スライムナイト（35周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:21+09:00",
+      "last_attempt_at": "2026-09-08T08:04:41+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/487XEbb": {
       "name": "スライム（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:25+09:00",
+      "last_attempt_at": "2026-09-08T08:04:45+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4sJYCTg": {
       "name": "はぐれメタル（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:28+09:00",
+      "last_attempt_at": "2026-09-08T08:04:48+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/487XMYd": {
       "name": "キングスライム（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:31+09:00",
+      "last_attempt_at": "2026-09-08T08:04:51+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4endVNv": {
       "name": "リカント",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:34+09:00",
+      "last_attempt_at": "2026-09-08T08:04:54+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4d2RTgD": {
       "name": "リカントマムル",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:37+09:00",
+      "last_attempt_at": "2026-09-08T08:04:57+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tdw8k8": {
       "name": "オーク",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:40+09:00",
+      "last_attempt_at": "2026-09-08T08:05:01+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4uNU0MP": {
       "name": "オークキング",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T04:22:43+09:00",
+      "last_attempt_at": "2026-09-08T08:05:04+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42O6vf6": {
