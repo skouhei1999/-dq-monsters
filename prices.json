@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 104,
+    "next_index": 112,
     "total": 128,
     "batch_size": 8,
     "cycle": 3,
-    "last_run": "2026-09-07T12:52:22+09:00",
-    "last_batch_start": 96,
+    "last_run": "2026-09-07T13:03:56+09:00",
+    "last_batch_start": 104,
     "last_batch_names": [
-      "キースドラゴン",
-      "スカイドラゴン",
-      "スノードラゴン",
-      "しんりゅう",
-      "やまたのおろち",
-      "キングヒドラ",
-      "グレイトドラゴン",
-      "ブラックドラゴン"
+      "バトルレックス",
+      "アックスドラゴン",
+      "りゅうおう",
+      "りゅうおう（40周年）",
+      "竜王（40周年）",
+      "ハーゴン",
+      "シドー（緑）",
+      "カンダタ"
     ]
   },
   "items": {
@@ -681,52 +681,52 @@
     "https://amzn.to/4tKC19I": {
       "name": "バトルレックス",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T08:51:10+09:00",
+      "last_attempt_at": "2026-09-07T13:03:26+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42f4EzU": {
       "name": "アックスドラゴン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T08:51:13+09:00",
+      "last_attempt_at": "2026-09-07T13:03:29+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4eZgPYX": {
       "name": "りゅうおう",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T08:51:16+09:00",
+      "last_attempt_at": "2026-09-07T13:03:32+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/48FFn5m": {
       "name": "りゅうおう（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T08:51:20+09:00",
+      "last_attempt_at": "2026-09-07T13:03:35+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/488HSgu": {
       "name": "竜王（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T08:51:25+09:00",
+      "last_attempt_at": "2026-09-07T13:03:39+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4d18Isf": {
       "name": "ハーゴン",
       "status": "unavailable",
-      "checked_at": "2026-09-07T08:51:29+09:00",
-      "last_attempt_at": "2026-09-07T08:51:29+09:00",
+      "checked_at": "2026-09-07T13:03:44+09:00",
+      "last_attempt_at": "2026-09-07T13:03:44+09:00",
       "last_attempt_status": "success",
       "source": "amazon_html"
     },
     "https://amzn.to/4wbessm": {
       "name": "シドー（緑）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-07T08:51:33+09:00",
+      "last_attempt_at": "2026-09-07T13:03:48+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4n89CYR": {
       "name": "カンダタ",
       "status": "unavailable",
-      "checked_at": "2026-09-07T08:51:38+09:00",
-      "last_attempt_at": "2026-09-07T08:51:38+09:00",
+      "checked_at": "2026-09-07T13:03:53+09:00",
+      "last_attempt_at": "2026-09-07T13:03:53+09:00",
       "last_attempt_status": "success",
       "source": "amazon_html"
     },
