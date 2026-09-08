@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 80,
+    "next_index": 88,
     "total": 128,
     "batch_size": 8,
     "cycle": 13,
-    "last_run": "2026-09-09T07:32:19+09:00",
-    "last_batch_start": 72,
+    "last_run": "2026-09-09T07:44:41+09:00",
+    "last_batch_start": 80,
     "last_batch_names": [
-      "おおさそり",
-      "てつのさそり",
-      "ヘルバオム",
-      "ローズバトラー",
-      "ばくだんいわ",
-      "スマイルロック",
-      "のろいの岩",
-      "オーロラウンダー"
+      "さまようよろい",
+      "キラーアーマー",
+      "ピサロナイト",
+      "ゴーレム",
+      "ゴールドマン",
+      "ストーンマン",
+      "キラーマシン",
+      "タイプG"
     ]
   },
   "items": {
@@ -546,56 +546,56 @@
     "https://amzn.to/4n6MxFH": {
       "name": "さまようよろい",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-09T03:37:27+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-09-09T07:44:16+09:00",
+      "last_attempt_status": "failed",
       "checked_at": "2026-09-09T03:37:27+09:00",
       "source": "amazon_html"
     },
     "https://amzn.to/4taVmzL": {
       "name": "キラーアーマー",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-09T03:37:31+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-09-09T07:44:19+09:00",
+      "last_attempt_status": "failed",
       "checked_at": "2026-09-09T03:37:31+09:00",
       "source": "amazon_html"
     },
     "https://amzn.to/42bzr0v": {
       "name": "ピサロナイト",
       "status": "unknown",
-      "last_attempt_at": "2026-09-09T03:37:34+09:00",
+      "last_attempt_at": "2026-09-09T07:44:22+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4w66zo9": {
       "name": "ゴーレム",
       "status": "unknown",
-      "last_attempt_at": "2026-09-09T03:37:39+09:00",
+      "last_attempt_at": "2026-09-09T07:44:25+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4d6RYQD": {
       "name": "ゴールドマン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-09T03:37:44+09:00",
+      "last_attempt_at": "2026-09-09T07:44:29+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4cVPNyY": {
       "name": "ストーンマン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-09T03:37:48+09:00",
+      "last_attempt_at": "2026-09-09T07:44:32+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4d3NoST": {
       "name": "キラーマシン",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-09T03:37:53+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-09-09T07:44:35+09:00",
+      "last_attempt_status": "failed",
       "checked_at": "2026-09-09T03:37:53+09:00",
       "source": "amazon_html"
     },
     "https://amzn.to/4utR5sn": {
       "name": "タイプG",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-09T03:37:57+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-09-09T07:44:38+09:00",
+      "last_attempt_status": "failed",
       "checked_at": "2026-09-09T03:37:57+09:00",
       "source": "amazon_html"
     },
