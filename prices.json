@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 96,
+    "next_index": 104,
     "total": 128,
     "batch_size": 8,
     "cycle": 9,
-    "last_run": "2026-09-08T13:59:09+09:00",
-    "last_batch_start": 88,
+    "last_run": "2026-09-08T14:17:03+09:00",
+    "last_batch_start": 96,
     "last_batch_names": [
-      "キラーマシン2",
-      "キラーマジンガ",
-      "ゴースト",
-      "メトロゴースト",
-      "メタルハンド",
-      "ドラゴン",
-      "ドラゴン（40周年）",
-      "ダースドラゴン"
+      "キースドラゴン",
+      "スカイドラゴン",
+      "スノードラゴン",
+      "しんりゅう",
+      "やまたのおろち",
+      "キングヒドラ",
+      "グレイトドラゴン",
+      "ブラックドラゴン"
     ]
   },
   "items": {
@@ -642,37 +642,37 @@
     "https://amzn.to/4tUyztl": {
       "name": "キースドラゴン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T10:01:13+09:00",
+      "last_attempt_at": "2026-09-08T14:16:37+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tSZx4A": {
       "name": "スカイドラゴン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T10:01:17+09:00",
+      "last_attempt_at": "2026-09-08T14:16:40+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42Polyg": {
       "name": "スノードラゴン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T10:01:20+09:00",
+      "last_attempt_at": "2026-09-08T14:16:44+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4nbkeGm": {
       "name": "しんりゅう",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T10:01:23+09:00",
+      "last_attempt_at": "2026-09-08T14:16:47+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tb1W9r": {
       "name": "やまたのおろち",
       "status": "unknown",
-      "last_attempt_at": "2026-09-08T10:01:26+09:00",
+      "last_attempt_at": "2026-09-08T14:16:50+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4wacMiB": {
       "name": "キングヒドラ",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-08T10:01:30+09:00",
+      "last_attempt_at": "2026-09-08T14:16:53+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-08T05:58:32+09:00",
       "source": "amazon_html"
@@ -680,7 +680,7 @@
     "https://amzn.to/3OM9TE5": {
       "name": "グレイトドラゴン",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-08T10:01:33+09:00",
+      "last_attempt_at": "2026-09-08T14:16:57+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-08T05:58:35+09:00",
       "source": "amazon_html"
@@ -688,7 +688,7 @@
     "https://amzn.to/3P0Bnpy": {
       "name": "ブラックドラゴン",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-08T10:01:36+09:00",
+      "last_attempt_at": "2026-09-08T14:17:00+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-08T05:58:39+09:00",
       "source": "amazon_html"
