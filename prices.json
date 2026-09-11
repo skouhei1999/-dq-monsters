@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 64,
+    "next_index": 72,
     "total": 128,
     "batch_size": 8,
     "cycle": 28,
-    "last_run": "2026-09-11T22:16:16+09:00",
-    "last_batch_start": 56,
+    "last_run": "2026-09-11T22:33:26+09:00",
+    "last_batch_start": 64,
     "last_batch_names": [
-      "ミニデーモン",
-      "おおめだま",
-      "スペクテット",
-      "バルザック",
-      "あくまのきし",
-      "しろバラのきし",
-      "あくましんかん",
-      "じごくのつかい"
+      "アークデーモン",
+      "デザートデーモン",
+      "シルバーデビル",
+      "ギガンテス",
+      "キメラ",
+      "メタルキメラ",
+      "スターキメラ",
+      "おおがらす"
     ]
   },
   "items": {
@@ -435,19 +435,19 @@
     "https://amzn.to/4waRyRK": {
       "name": "アークデーモン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-11T18:04:44+09:00",
+      "last_attempt_at": "2026-09-11T22:33:01+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4cPai1H": {
       "name": "デザートデーモン",
       "status": "unknown",
-      "last_attempt_at": "2026-09-11T18:04:48+09:00",
+      "last_attempt_at": "2026-09-11T22:33:04+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42SevM0": {
       "name": "シルバーデビル",
       "status": "price",
-      "last_attempt_at": "2026-09-11T18:04:51+09:00",
+      "last_attempt_at": "2026-09-11T22:33:07+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-10T08:42:52+09:00",
       "source": "amazon_html",
@@ -456,7 +456,7 @@
     "https://amzn.to/4tKzv3g": {
       "name": "ギガンテス",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-11T18:04:54+09:00",
+      "last_attempt_at": "2026-09-11T22:33:10+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-10T08:42:55+09:00",
       "source": "amazon_html"
@@ -464,25 +464,25 @@
     "https://amzn.to/4tfKrF4": {
       "name": "キメラ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-11T18:04:57+09:00",
+      "last_attempt_at": "2026-09-11T22:33:14+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/48CO9kO": {
       "name": "メタルキメラ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-11T18:05:00+09:00",
+      "last_attempt_at": "2026-09-11T22:33:17+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3R64Wqh": {
       "name": "スターキメラ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-11T18:05:03+09:00",
+      "last_attempt_at": "2026-09-11T22:33:20+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3PlPCFt": {
       "name": "おおがらす",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-11T18:05:06+09:00",
+      "last_attempt_at": "2026-09-11T22:33:23+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-10T08:43:13+09:00",
       "source": "amazon_html"
