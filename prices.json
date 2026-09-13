@@ -1,47 +1,47 @@
 {
   "_meta": {
-    "next_index": 0,
+    "next_index": 8,
     "total": 128,
     "batch_size": 8,
     "cycle": 41,
-    "last_run": "2026-09-13T23:02:39+09:00",
-    "last_batch_start": 120,
+    "last_run": "2026-09-13T23:19:09+09:00",
+    "last_batch_start": 0,
     "last_batch_names": [
-      "エスターク（ブルー）",
-      "デスピサロ",
-      "エビルプリースト",
-      "究極エビルプリースト",
-      "ミルドラース",
-      "オルゴ・デミーラ",
-      "わたぼう",
-      "わるぼう"
+      "スライム",
+      "スライム（ロトブルー）",
+      "スライムベス",
+      "メタルスライム",
+      "スライムダーク",
+      "スラミチ",
+      "スラミチ（アストロン）",
+      "ライムスライム"
     ]
   },
   "items": {
     "https://amzn.to/4tSQArz": {
       "name": "スライム",
       "status": "unknown",
-      "last_attempt_at": "2026-09-13T19:34:35+09:00",
+      "last_attempt_at": "2026-09-13T23:18:42+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4sK6kw8": {
       "name": "スライム（ロトブルー）",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-13T19:34:39+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-09-13T23:18:45+09:00",
+      "last_attempt_status": "failed",
       "checked_at": "2026-09-13T19:34:39+09:00",
       "source": "amazon_html"
     },
     "https://amzn.to/4tfHrcC": {
       "name": "スライムベス",
       "status": "unknown",
-      "last_attempt_at": "2026-09-13T19:34:43+09:00",
+      "last_attempt_at": "2026-09-13T23:18:48+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4vA62uk": {
       "name": "メタルスライム",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-13T19:34:48+09:00",
+      "last_attempt_at": "2026-09-13T23:18:51+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-07T09:51:03+09:00",
       "source": "amazon_html"
@@ -49,29 +49,29 @@
     "https://amzn.to/426RkgF": {
       "name": "スライムダーク",
       "status": "unknown",
-      "last_attempt_at": "2026-09-13T19:34:53+09:00",
+      "last_attempt_at": "2026-09-13T23:18:55+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4cd71ZP": {
       "name": "スラミチ",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-13T19:34:58+09:00",
+      "last_attempt_at": "2026-09-13T23:18:58+09:00",
       "last_attempt_status": "success",
-      "checked_at": "2026-09-13T19:34:58+09:00",
+      "checked_at": "2026-09-13T23:18:58+09:00",
       "source": "amazon_html"
     },
     "https://amzn.to/4mCPoWU": {
       "name": "スラミチ（アストロン）",
       "status": "unavailable",
-      "checked_at": "2026-09-13T19:35:02+09:00",
-      "last_attempt_at": "2026-09-13T19:35:02+09:00",
+      "checked_at": "2026-09-13T23:19:00+09:00",
+      "last_attempt_at": "2026-09-13T23:19:00+09:00",
       "last_attempt_status": "success",
       "source": "amazon_html"
     },
     "https://amzn.to/4whjvXO": {
       "name": "ライムスライム",
       "status": "unknown",
-      "last_attempt_at": "2026-09-13T19:35:06+09:00",
+      "last_attempt_at": "2026-09-13T23:19:04+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3R1ANJh": {
