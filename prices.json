@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 72,
+    "next_index": 80,
     "total": 128,
     "batch_size": 8,
     "cycle": 48,
-    "last_run": "2026-09-15T07:17:53+09:00",
-    "last_batch_start": 64,
+    "last_run": "2026-09-15T07:33:52+09:00",
+    "last_batch_start": 72,
     "last_batch_names": [
-      "アークデーモン",
-      "デザートデーモン",
-      "シルバーデビル",
-      "ギガンテス",
-      "キメラ",
-      "メタルキメラ",
-      "スターキメラ",
-      "おおがらす"
+      "おおさそり",
+      "てつのさそり",
+      "ヘルバオム",
+      "ローズバトラー",
+      "ばくだんいわ",
+      "スマイルロック",
+      "のろいの岩",
+      "オーロラウンダー"
     ]
   },
   "items": {
@@ -496,7 +496,7 @@
     "https://amzn.to/3PlRWfF": {
       "name": "おおさそり",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-15T03:20:38+09:00",
+      "last_attempt_at": "2026-09-15T07:33:25+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-12T21:52:06+09:00",
       "source": "amazon_html"
@@ -504,14 +504,14 @@
     "https://amzn.to/4tdCdgs": {
       "name": "てつのさそり",
       "status": "unknown",
-      "last_attempt_at": "2026-09-15T03:20:42+09:00",
+      "last_attempt_at": "2026-09-15T07:33:29+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4dnRhU5": {
       "name": "ヘルバオム",
       "status": "price",
       "checked_at": "2026-09-12T21:52:14+09:00",
-      "last_attempt_at": "2026-09-15T03:20:45+09:00",
+      "last_attempt_at": "2026-09-15T07:33:32+09:00",
       "last_attempt_status": "failed",
       "source": "amazon_html",
       "price": 7179
@@ -520,7 +520,7 @@
       "name": "ローズバトラー",
       "status": "price",
       "checked_at": "2026-09-14T17:47:05+09:00",
-      "last_attempt_at": "2026-09-15T03:20:48+09:00",
+      "last_attempt_at": "2026-09-15T07:33:35+09:00",
       "last_attempt_status": "failed",
       "source": "amazon_html",
       "price": 6781
@@ -528,13 +528,13 @@
     "https://amzn.to/4dp1obh": {
       "name": "ばくだんいわ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-15T03:20:52+09:00",
+      "last_attempt_at": "2026-09-15T07:33:39+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4wbyanO": {
       "name": "スマイルロック",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-15T03:20:55+09:00",
+      "last_attempt_at": "2026-09-15T07:33:42+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-14T17:47:12+09:00",
       "source": "amazon_html"
@@ -542,13 +542,13 @@
     "https://amzn.to/4psCoEH": {
       "name": "のろいの岩",
       "status": "unknown",
-      "last_attempt_at": "2026-09-15T03:20:58+09:00",
+      "last_attempt_at": "2026-09-15T07:33:45+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/44GSJfl": {
       "name": "オーロラウンダー",
       "status": "unknown",
-      "last_attempt_at": "2026-09-15T03:21:01+09:00",
+      "last_attempt_at": "2026-09-15T07:33:49+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4n6MxFH": {
