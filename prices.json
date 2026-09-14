@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 120,
+    "next_index": 0,
     "total": 128,
     "batch_size": 8,
-    "cycle": 43,
-    "last_run": "2026-09-14T10:19:40+09:00",
-    "last_batch_start": 112,
+    "cycle": 44,
+    "last_run": "2026-09-14T10:33:03+09:00",
+    "last_batch_start": 120,
     "last_batch_names": [
-      "デスストーカー",
-      "エリミネーター",
-      "バラモス",
-      "バラモスブロス",
-      "ゾーマ",
-      "ゾーマ（闇の衣）",
-      "ラーミア",
-      "エスターク"
+      "エスターク（ブルー）",
+      "デスピサロ",
+      "エビルプリースト",
+      "究極エビルプリースト",
+      "ミルドラース",
+      "オルゴ・デミーラ",
+      "わたぼう",
+      "わるぼう"
     ]
   },
   "items": {
@@ -819,7 +819,7 @@
     "https://amzn.to/42Sp15W": {
       "name": "エスターク（ブルー）",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-14T06:43:06+09:00",
+      "last_attempt_at": "2026-09-14T10:32:35+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-10T10:31:37+09:00",
       "source": "amazon_html"
@@ -827,31 +827,31 @@
     "https://amzn.to/4f3oXaR": {
       "name": "デスピサロ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-14T06:43:10+09:00",
+      "last_attempt_at": "2026-09-14T10:32:40+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4dokSNc": {
       "name": "エビルプリースト",
       "status": "unknown",
-      "last_attempt_at": "2026-09-14T06:43:13+09:00",
+      "last_attempt_at": "2026-09-14T10:32:43+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/491kIZV": {
       "name": "究極エビルプリースト",
       "status": "unknown",
-      "last_attempt_at": "2026-09-14T06:43:16+09:00",
+      "last_attempt_at": "2026-09-14T10:32:47+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4daWfCF": {
       "name": "ミルドラース",
       "status": "unknown",
-      "last_attempt_at": "2026-09-14T06:43:19+09:00",
+      "last_attempt_at": "2026-09-14T10:32:50+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4wbeFMa": {
       "name": "オルゴ・デミーラ",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-14T06:43:23+09:00",
+      "last_attempt_at": "2026-09-14T10:32:54+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-14T02:52:45+09:00",
       "source": "amazon_html"
@@ -859,7 +859,7 @@
     "https://amzn.to/4n6MbPq": {
       "name": "わたぼう",
       "status": "price",
-      "last_attempt_at": "2026-09-14T06:43:26+09:00",
+      "last_attempt_at": "2026-09-14T10:32:57+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-14T02:52:49+09:00",
       "source": "amazon_html",
@@ -868,7 +868,7 @@
     "https://amzn.to/4d75ELt": {
       "name": "わるぼう",
       "status": "price",
-      "last_attempt_at": "2026-09-14T06:43:29+09:00",
+      "last_attempt_at": "2026-09-14T10:33:00+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-14T02:52:52+09:00",
       "source": "amazon_html",
