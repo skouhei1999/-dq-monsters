@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 56,
+    "next_index": 64,
     "total": 128,
     "batch_size": 8,
     "cycle": 68,
-    "last_run": "2026-09-18T19:16:19+09:00",
-    "last_batch_start": 48,
+    "last_run": "2026-09-18T19:33:05+09:00",
+    "last_batch_start": 56,
     "last_batch_names": [
-      "アルミラージ",
-      "いたずらもぐら",
-      "キングレオ",
-      "ドラキー",
-      "メタルドラキー",
-      "ドラキーマ",
-      "ツンドラキー",
-      "ベビーサタン"
+      "ミニデーモン",
+      "おおめだま",
+      "スペクテット",
+      "バルザック",
+      "あくまのきし",
+      "しろバラのきし",
+      "あくましんかん",
+      "じごくのつかい"
     ]
   },
   "items": {
@@ -385,7 +385,7 @@
     "https://amzn.to/3OY5cXS": {
       "name": "ミニデーモン",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-18T15:20:20+09:00",
+      "last_attempt_at": "2026-09-18T19:32:40+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-12T13:46:00+09:00",
       "source": "amazon_html"
@@ -393,25 +393,25 @@
     "https://amzn.to/4esBbd8": {
       "name": "おおめだま",
       "status": "unknown",
-      "last_attempt_at": "2026-09-18T15:20:23+09:00",
+      "last_attempt_at": "2026-09-18T19:32:43+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3QQIYaL": {
       "name": "スペクテット",
       "status": "unknown",
-      "last_attempt_at": "2026-09-18T15:20:27+09:00",
+      "last_attempt_at": "2026-09-18T19:32:46+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tbuGPz": {
       "name": "バルザック",
       "status": "unknown",
-      "last_attempt_at": "2026-09-18T15:20:30+09:00",
+      "last_attempt_at": "2026-09-18T19:32:49+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4cScwgR": {
       "name": "あくまのきし",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-18T15:20:33+09:00",
+      "last_attempt_at": "2026-09-18T19:32:53+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-17T23:23:30+09:00",
       "source": "amazon_html"
@@ -419,7 +419,7 @@
     "https://amzn.to/3QKGDOF": {
       "name": "しろバラのきし",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-18T15:20:36+09:00",
+      "last_attempt_at": "2026-09-18T19:32:56+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-15T06:59:21+09:00",
       "source": "amazon_html"
@@ -427,7 +427,7 @@
     "https://amzn.to/4uyLPnn": {
       "name": "あくましんかん",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-18T15:20:40+09:00",
+      "last_attempt_at": "2026-09-18T19:32:59+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-08T17:27:41+09:00",
       "source": "amazon_html"
@@ -435,7 +435,7 @@
     "https://amzn.to/4urI4jt": {
       "name": "じごくのつかい",
       "status": "unknown",
-      "last_attempt_at": "2026-09-18T15:20:43+09:00",
+      "last_attempt_at": "2026-09-18T19:33:02+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4waRyRK": {
