@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 32,
+    "next_index": 40,
     "total": 128,
     "batch_size": 8,
     "cycle": 83,
-    "last_run": "2026-09-21T03:42:48+09:00",
-    "last_batch_start": 24,
+    "last_run": "2026-09-21T03:53:15+09:00",
+    "last_batch_start": 32,
     "last_batch_names": [
-      "ドラゴスライム（DQ7記念バージョン）",
-      "ドラゴメタル",
-      "エンゼルスライム",
-      "メタルエンゼル",
-      "スライムタワー",
-      "メタルブラザーズ",
-      "ゴールデントーテム",
-      "ももいろ三姉妹"
+      "チョコタワー",
+      "スライムつむり",
+      "メタルつむり",
+      "スライムコロネ",
+      "スライム（35周年）",
+      "はぐれメタル（35周年）",
+      "ホイミスライム（35周年）",
+      "キングスライム（35周年）"
     ]
   },
   "items": {
@@ -232,44 +232,44 @@
     "https://amzn.to/4tNKtET": {
       "name": "チョコタワー",
       "status": "unknown",
-      "last_attempt_at": "2026-09-21T00:04:32+09:00",
+      "last_attempt_at": "2026-09-21T03:52:42+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tR9FKI": {
       "name": "スライムつむり",
       "status": "unknown",
-      "last_attempt_at": "2026-09-21T00:04:35+09:00",
+      "last_attempt_at": "2026-09-21T03:52:45+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4sx8a3e": {
       "name": "メタルつむり",
       "status": "unknown",
-      "last_attempt_at": "2026-09-21T00:04:39+09:00",
+      "last_attempt_at": "2026-09-21T03:52:48+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4elTyjx": {
       "name": "スライムコロネ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-21T00:04:42+09:00",
+      "last_attempt_at": "2026-09-21T03:52:52+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tSTA7j": {
       "name": "スライム（35周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-21T00:04:45+09:00",
+      "last_attempt_at": "2026-09-21T03:52:57+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4vuqBs1": {
       "name": "はぐれメタル（35周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-21T00:04:48+09:00",
+      "last_attempt_at": "2026-09-21T03:53:01+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4szPkIC": {
       "name": "ホイミスライム（35周年）",
       "status": "unavailable",
-      "checked_at": "2026-09-21T00:04:52+09:00",
-      "last_attempt_at": "2026-09-21T00:04:52+09:00",
+      "checked_at": "2026-09-21T03:53:06+09:00",
+      "last_attempt_at": "2026-09-21T03:53:06+09:00",
       "last_attempt_status": "success",
       "source": "amazon_html"
     },
@@ -277,7 +277,7 @@
       "name": "キングスライム（35周年）",
       "status": "unavailable",
       "checked_at": "2026-09-15T10:27:38+09:00",
-      "last_attempt_at": "2026-09-21T00:04:56+09:00",
+      "last_attempt_at": "2026-09-21T03:53:10+09:00",
       "last_attempt_status": "failed",
       "source": "amazon_html"
     },
