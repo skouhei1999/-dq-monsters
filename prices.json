@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 40,
+    "next_index": 48,
     "total": 128,
     "batch_size": 8,
     "cycle": 81,
-    "last_run": "2026-09-20T20:14:12+09:00",
-    "last_batch_start": 32,
+    "last_run": "2026-09-20T20:31:17+09:00",
+    "last_batch_start": 40,
     "last_batch_names": [
-      "チョコタワー",
-      "スライムつむり",
-      "メタルつむり",
-      "スライムコロネ",
-      "スライム（35周年）",
-      "はぐれメタル（35周年）",
-      "ホイミスライム（35周年）",
-      "キングスライム（35周年）"
+      "スライムナイト（35周年）",
+      "スライム（40周年）",
+      "はぐれメタル（40周年）",
+      "キングスライム（40周年）",
+      "リカント",
+      "リカントマムル",
+      "オーク",
+      "オークキング"
     ]
   },
   "items": {
@@ -284,7 +284,7 @@
     "https://amzn.to/4mADzAy": {
       "name": "スライムナイト（35周年）",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-20T16:34:48+09:00",
+      "last_attempt_at": "2026-09-20T20:30:51+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-19T06:42:29+09:00",
       "source": "amazon_html"
@@ -292,31 +292,31 @@
     "https://amzn.to/487XEbb": {
       "name": "スライム（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-20T16:34:51+09:00",
+      "last_attempt_at": "2026-09-20T20:30:54+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4sJYCTg": {
       "name": "はぐれメタル（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-20T16:34:55+09:00",
+      "last_attempt_at": "2026-09-20T20:30:57+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/487XMYd": {
       "name": "キングスライム（40周年）",
       "status": "unknown",
-      "last_attempt_at": "2026-09-20T16:34:58+09:00",
+      "last_attempt_at": "2026-09-20T20:31:01+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4endVNv": {
       "name": "リカント",
       "status": "unknown",
-      "last_attempt_at": "2026-09-20T16:35:01+09:00",
+      "last_attempt_at": "2026-09-20T20:31:04+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4d2RTgD": {
       "name": "リカントマムル",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-20T16:35:04+09:00",
+      "last_attempt_at": "2026-09-20T20:31:07+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-15T15:32:11+09:00",
       "source": "amazon_html"
@@ -324,13 +324,13 @@
     "https://amzn.to/4tdw8k8": {
       "name": "オーク",
       "status": "unknown",
-      "last_attempt_at": "2026-09-20T16:35:07+09:00",
+      "last_attempt_at": "2026-09-20T20:31:10+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4uNU0MP": {
       "name": "オークキング",
       "status": "unknown",
-      "last_attempt_at": "2026-09-20T16:35:11+09:00",
+      "last_attempt_at": "2026-09-20T20:31:14+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42O6vf6": {
