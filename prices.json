@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 48,
+    "next_index": 56,
     "total": 128,
     "batch_size": 8,
     "cycle": 97,
-    "last_run": "2026-09-23T13:51:27+09:00",
-    "last_batch_start": 40,
+    "last_run": "2026-09-23T14:01:19+09:00",
+    "last_batch_start": 48,
     "last_batch_names": [
-      "スライムナイト（35周年）",
-      "スライム（40周年）",
-      "はぐれメタル（40周年）",
-      "キングスライム（40周年）",
-      "リカント",
-      "リカントマムル",
-      "オーク",
-      "オークキング"
+      "アルミラージ",
+      "いたずらもぐら",
+      "キングレオ",
+      "ドラキー",
+      "メタルドラキー",
+      "ドラキーマ",
+      "ツンドラキー",
+      "ベビーサタン"
     ]
   },
   "items": {
@@ -340,37 +340,37 @@
     "https://amzn.to/42O6vf6": {
       "name": "アルミラージ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-23T09:59:41+09:00",
+      "last_attempt_at": "2026-09-23T14:00:54+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4dp4BYs": {
       "name": "いたずらもぐら",
       "status": "unknown",
-      "last_attempt_at": "2026-09-23T09:59:45+09:00",
+      "last_attempt_at": "2026-09-23T14:00:57+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4da3PgF": {
       "name": "キングレオ",
       "status": "unknown",
-      "last_attempt_at": "2026-09-23T09:59:48+09:00",
+      "last_attempt_at": "2026-09-23T14:01:00+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/42Pl41W": {
       "name": "ドラキー",
       "status": "unknown",
-      "last_attempt_at": "2026-09-23T09:59:51+09:00",
+      "last_attempt_at": "2026-09-23T14:01:03+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tRjDvN": {
       "name": "メタルドラキー",
       "status": "unknown",
-      "last_attempt_at": "2026-09-23T09:59:54+09:00",
+      "last_attempt_at": "2026-09-23T14:01:07+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3RlDWDd": {
       "name": "ドラキーマ",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-23T09:59:58+09:00",
+      "last_attempt_at": "2026-09-23T14:01:10+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-23T05:58:16+09:00",
       "source": "amazon_html"
@@ -378,13 +378,13 @@
     "https://amzn.to/4uqLS4i": {
       "name": "ツンドラキー",
       "status": "unknown",
-      "last_attempt_at": "2026-09-23T10:00:01+09:00",
+      "last_attempt_at": "2026-09-23T14:01:13+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4nawtmw": {
       "name": "ベビーサタン",
       "status": "unavailable",
-      "last_attempt_at": "2026-09-23T10:00:04+09:00",
+      "last_attempt_at": "2026-09-23T14:01:16+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-23T05:58:24+09:00",
       "source": "amazon_html"
