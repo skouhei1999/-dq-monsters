@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 8,
+    "next_index": 16,
     "total": 128,
     "batch_size": 8,
     "cycle": 129,
-    "last_run": "2026-10-14T10:25:07+09:00",
-    "last_batch_start": 0,
+    "last_run": "2026-10-14T15:38:02+09:00",
+    "last_batch_start": 8,
     "last_batch_names": [
-      "スライム",
-      "スライム（ロトブルー）",
-      "スライムベス",
-      "メタルスライム",
-      "スライムダーク",
-      "スラミチ",
-      "スラミチ（アストロン）",
-      "ライムスライム"
+      "ピーチスライム",
+      "はぐれメタル",
+      "はぐれメタルL",
+      "バブルスライム",
+      "キングスライム",
+      "キングスライム（ロトブルー）",
+      "メタルキング",
+      "ゴールデンスライム"
     ]
   },
   "items": {
@@ -79,52 +79,54 @@
     },
     "https://amzn.to/3R1ANJh": {
       "name": "ピーチスライム",
-      "status": "unknown",
-      "last_attempt_at": "2026-10-11T03:05:24+09:00",
-      "last_attempt_status": "failed"
+      "status": "unavailable",
+      "last_attempt_at": "2026-10-14T15:36:39+09:00",
+      "last_attempt_status": "success",
+      "checked_at": "2026-10-14T15:36:39+09:00",
+      "source": "jina_reader"
     },
     "https://amzn.to/3QdH5EI": {
       "name": "はぐれメタル",
       "status": "unknown",
-      "last_attempt_at": "2026-10-11T03:05:28+09:00",
+      "last_attempt_at": "2026-10-14T15:36:49+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4taFX38": {
       "name": "はぐれメタルL",
       "status": "unknown",
-      "last_attempt_at": "2026-10-11T03:05:31+09:00",
+      "last_attempt_at": "2026-10-14T15:36:59+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4suOFYZ": {
       "name": "バブルスライム",
       "status": "unknown",
-      "last_attempt_at": "2026-10-11T03:05:35+09:00",
+      "last_attempt_at": "2026-10-14T15:37:07+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4sDr9sS": {
       "name": "キングスライム",
       "status": "unknown",
-      "last_attempt_at": "2026-10-11T03:05:40+09:00",
+      "last_attempt_at": "2026-10-14T15:37:15+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4vsK1gK": {
       "name": "キングスライム（ロトブルー）",
       "status": "unavailable",
-      "last_attempt_at": "2026-10-11T03:05:45+09:00",
+      "last_attempt_at": "2026-10-14T15:37:35+09:00",
       "last_attempt_status": "success",
-      "checked_at": "2026-10-11T03:05:45+09:00",
-      "source": "amazon_html"
+      "checked_at": "2026-10-14T15:37:35+09:00",
+      "source": "jina_reader"
     },
     "https://amzn.to/4cprxoR": {
       "name": "メタルキング",
       "status": "unknown",
-      "last_attempt_at": "2026-10-11T03:05:49+09:00",
+      "last_attempt_at": "2026-10-14T15:37:43+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4cbcReb": {
       "name": "ゴールデンスライム",
       "status": "unknown",
-      "last_attempt_at": "2026-10-11T03:05:54+09:00",
+      "last_attempt_at": "2026-10-14T15:37:52+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tce3Ed": {
