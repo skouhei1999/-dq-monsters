@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 48,
+    "next_index": 56,
     "total": 128,
     "batch_size": 8,
     "cycle": 132,
-    "last_run": "2026-10-22T23:41:23+09:00",
-    "last_batch_start": 40,
+    "last_run": "2026-10-23T03:51:07+09:00",
+    "last_batch_start": 48,
     "last_batch_names": [
-      "スライムナイト（35周年）",
-      "スライム（40周年）",
-      "はぐれメタル（40周年）",
-      "キングスライム（40周年）",
-      "リカント",
-      "リカントマムル",
-      "オーク",
-      "オークキング"
+      "アルミラージ",
+      "いたずらもぐら",
+      "キングレオ",
+      "ドラキー",
+      "メタルドラキー",
+      "ドラキーマ",
+      "ツンドラキー",
+      "ベビーサタン"
     ]
   },
   "items": {
@@ -363,42 +363,42 @@
     "https://amzn.to/42O6vf6": {
       "name": "アルミラージ",
       "status": "unknown",
-      "last_attempt_at": "2026-10-20T08:14:06+09:00",
+      "last_attempt_at": "2026-10-23T03:49:51+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4dp4BYs": {
       "name": "いたずらもぐら",
       "status": "unknown",
-      "last_attempt_at": "2026-10-20T08:14:16+09:00",
+      "last_attempt_at": "2026-10-23T03:50:01+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4da3PgF": {
       "name": "キングレオ",
       "status": "unavailable",
-      "last_attempt_at": "2026-10-20T08:14:28+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-10-23T03:50:11+09:00",
+      "last_attempt_status": "failed",
       "checked_at": "2026-10-20T08:14:28+09:00",
       "source": "jina_reader"
     },
     "https://amzn.to/42Pl41W": {
       "name": "ドラキー",
       "status": "price",
-      "last_attempt_at": "2026-10-20T08:14:38+09:00",
+      "last_attempt_at": "2026-10-23T03:50:22+09:00",
       "last_attempt_status": "success",
-      "checked_at": "2026-10-20T08:14:38+09:00",
+      "checked_at": "2026-10-23T03:50:22+09:00",
       "source": "jina_reader",
       "price": 2000
     },
     "https://amzn.to/4tRjDvN": {
       "name": "メタルドラキー",
       "status": "unknown",
-      "last_attempt_at": "2026-10-20T08:14:52+09:00",
+      "last_attempt_at": "2026-10-23T03:50:29+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3RlDWDd": {
       "name": "ドラキーマ",
       "status": "unavailable",
-      "last_attempt_at": "2026-10-20T08:15:02+09:00",
+      "last_attempt_at": "2026-10-23T03:50:37+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-09-23T05:58:16+09:00",
       "source": "amazon_html"
@@ -406,7 +406,7 @@
     "https://amzn.to/4uqLS4i": {
       "name": "ツンドラキー",
       "status": "price",
-      "last_attempt_at": "2026-10-20T08:15:17+09:00",
+      "last_attempt_at": "2026-10-23T03:50:47+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-10-15T10:55:13+09:00",
       "source": "jina_reader",
@@ -415,9 +415,9 @@
     "https://amzn.to/4nawtmw": {
       "name": "ベビーサタン",
       "status": "unavailable",
-      "last_attempt_at": "2026-10-20T08:15:27+09:00",
+      "last_attempt_at": "2026-10-23T03:50:54+09:00",
       "last_attempt_status": "success",
-      "checked_at": "2026-10-20T08:15:27+09:00",
+      "checked_at": "2026-10-23T03:50:54+09:00",
       "source": "jina_reader"
     },
     "https://amzn.to/3OY5cXS": {
