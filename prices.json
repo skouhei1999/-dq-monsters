@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 104,
+    "next_index": 112,
     "total": 128,
     "batch_size": 8,
     "cycle": 134,
-    "last_run": "2026-10-29T17:18:19+09:00",
-    "last_batch_start": 96,
+    "last_run": "2026-10-30T00:18:35+09:00",
+    "last_batch_start": 104,
     "last_batch_names": [
-      "キースドラゴン",
-      "スカイドラゴン",
-      "スノードラゴン",
-      "しんりゅう",
-      "やまたのおろち",
-      "キングヒドラ",
-      "グレイトドラゴン",
-      "ブラックドラゴン"
+      "バトルレックス",
+      "アックスドラゴン",
+      "りゅうおう",
+      "りゅうおう（40周年）",
+      "竜王（40周年）",
+      "ハーゴン",
+      "シドー（緑）",
+      "カンダタ"
     ]
   },
   "items": {
@@ -787,15 +787,15 @@
     "https://amzn.to/4tKC19I": {
       "name": "バトルレックス",
       "status": "unavailable",
-      "last_attempt_at": "2026-10-26T13:31:01+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-10-30T00:18:02+09:00",
+      "last_attempt_status": "failed",
       "checked_at": "2026-10-26T13:31:01+09:00",
       "source": "jina_reader"
     },
     "https://amzn.to/42f4EzU": {
       "name": "アックスドラゴン",
       "status": "price",
-      "last_attempt_at": "2026-10-26T13:31:14+09:00",
+      "last_attempt_at": "2026-10-30T00:18:07+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-10-10T06:40:04+09:00",
       "source": "amazon_html",
@@ -804,7 +804,7 @@
     "https://amzn.to/4eZgPYX": {
       "name": "りゅうおう",
       "status": "price",
-      "last_attempt_at": "2026-10-26T13:31:23+09:00",
+      "last_attempt_at": "2026-10-30T00:18:10+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-10-18T22:16:53+09:00",
       "source": "jina_reader",
@@ -813,7 +813,7 @@
     "https://amzn.to/48FFn5m": {
       "name": "りゅうおう（40周年）",
       "status": "price",
-      "last_attempt_at": "2026-10-26T13:31:32+09:00",
+      "last_attempt_at": "2026-10-30T00:18:14+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-10-16T15:15:12+09:00",
       "source": "amazon_html",
@@ -822,7 +822,7 @@
     "https://amzn.to/488HSgu": {
       "name": "竜王（40周年）",
       "status": "price",
-      "last_attempt_at": "2026-10-26T13:31:42+09:00",
+      "last_attempt_at": "2026-10-30T00:18:19+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-10-16T15:15:16+09:00",
       "source": "amazon_html",
@@ -832,21 +832,21 @@
       "name": "ハーゴン",
       "status": "unavailable",
       "checked_at": "2026-10-26T13:31:51+09:00",
-      "last_attempt_at": "2026-10-26T13:31:51+09:00",
-      "last_attempt_status": "success",
+      "last_attempt_at": "2026-10-30T00:18:23+09:00",
+      "last_attempt_status": "failed",
       "source": "jina_reader"
     },
     "https://amzn.to/4wbessm": {
       "name": "シドー（緑）",
       "status": "unknown",
-      "last_attempt_at": "2026-10-26T13:32:01+09:00",
+      "last_attempt_at": "2026-10-30T00:18:27+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4n89CYR": {
       "name": "カンダタ",
       "status": "unavailable",
       "checked_at": "2026-09-07T22:00:44+09:00",
-      "last_attempt_at": "2026-10-26T13:32:10+09:00",
+      "last_attempt_at": "2026-10-30T00:18:31+09:00",
       "last_attempt_status": "failed",
       "source": "amazon_html"
     },
