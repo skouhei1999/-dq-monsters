@@ -1,20 +1,20 @@
 {
   "_meta": {
-    "next_index": 16,
+    "next_index": 24,
     "total": 128,
     "batch_size": 8,
     "cycle": 135,
-    "last_run": "2026-10-30T20:38:50+09:00",
-    "last_batch_start": 8,
+    "last_run": "2026-10-31T02:11:54+09:00",
+    "last_batch_start": 16,
     "last_batch_names": [
-      "ピーチスライム",
-      "はぐれメタル",
-      "はぐれメタルL",
-      "バブルスライム",
-      "キングスライム",
-      "キングスライム（ロトブルー）",
-      "メタルキング",
-      "ゴールデンスライム"
+      "スライムマデュラ",
+      "スライムエンペラー",
+      "スライムナイト",
+      "メタルライダー",
+      "ハートナイト",
+      "ホイミスライム",
+      "ベホマスライム",
+      "ドラゴスライム"
     ]
   },
   "items": {
@@ -136,19 +136,19 @@
     "https://amzn.to/4tce3Ed": {
       "name": "スライムマデュラ",
       "status": "unknown",
-      "last_attempt_at": "2026-10-27T14:43:12+09:00",
+      "last_attempt_at": "2026-10-31T02:10:38+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tek0QZ": {
       "name": "スライムエンペラー",
       "status": "unknown",
-      "last_attempt_at": "2026-10-27T14:43:22+09:00",
+      "last_attempt_at": "2026-10-31T02:10:47+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4tmtGsD": {
       "name": "スライムナイト",
       "status": "price",
-      "last_attempt_at": "2026-10-27T14:43:33+09:00",
+      "last_attempt_at": "2026-10-31T02:10:57+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-10-19T10:33:32+09:00",
       "source": "jina_reader",
@@ -157,7 +157,7 @@
     "https://amzn.to/4en5Gkk": {
       "name": "メタルライダー",
       "status": "price",
-      "last_attempt_at": "2026-10-27T14:43:53+09:00",
+      "last_attempt_at": "2026-10-31T02:11:07+09:00",
       "last_attempt_status": "failed",
       "checked_at": "2026-10-19T10:33:40+09:00",
       "source": "jina_reader",
@@ -166,27 +166,27 @@
     "https://amzn.to/4tmv6mX": {
       "name": "ハートナイト",
       "status": "unavailable",
-      "checked_at": "2026-10-27T14:44:14+09:00",
-      "last_attempt_at": "2026-10-27T14:44:14+09:00",
+      "checked_at": "2026-10-31T02:11:17+09:00",
+      "last_attempt_at": "2026-10-31T02:11:17+09:00",
       "last_attempt_status": "success",
       "source": "jina_reader"
     },
     "https://amzn.to/4tNbLej": {
       "name": "ホイミスライム",
       "status": "unknown",
-      "last_attempt_at": "2026-10-27T14:44:25+09:00",
+      "last_attempt_at": "2026-10-31T02:11:25+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3O3jO7V": {
       "name": "ベホマスライム",
       "status": "unknown",
-      "last_attempt_at": "2026-10-27T14:44:37+09:00",
+      "last_attempt_at": "2026-10-31T02:11:35+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/4vNdMt9": {
       "name": "ドラゴスライム",
       "status": "unknown",
-      "last_attempt_at": "2026-10-27T14:44:47+09:00",
+      "last_attempt_at": "2026-10-31T02:11:45+09:00",
       "last_attempt_status": "failed"
     },
     "https://amzn.to/3Q1LbQn": {
